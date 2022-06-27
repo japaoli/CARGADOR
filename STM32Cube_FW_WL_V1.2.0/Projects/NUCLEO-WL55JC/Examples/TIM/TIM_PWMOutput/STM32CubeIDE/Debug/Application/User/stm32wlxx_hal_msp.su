@@ -1,0 +1,7 @@
+../../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:449:22:LL_AHB2_GRP1_EnableClock	24	static
+../../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:1303:22:LL_APB2_GRP1_EnableClock	24	static
+../../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:1351:22:LL_APB2_GRP1_DisableClock	16	static
+C:/Users/Jesus/Documents/STM32Cube_FW_WL_V1.2.0_CARGADOR_COCHE/STM32Cube_FW_WL_V1.2.0/Projects/NUCLEO-WL55JC/Examples/TIM/TIM_PWMOutput/Src/stm32wlxx_hal_msp.c:66:6:HAL_MspInit	4	static
+C:/Users/Jesus/Documents/STM32Cube_FW_WL_V1.2.0_CARGADOR_COCHE/STM32Cube_FW_WL_V1.2.0/Projects/NUCLEO-WL55JC/Examples/TIM/TIM_PWMOutput/Src/stm32wlxx_hal_msp.c:85:6:HAL_TIM_PWM_MspInit	16	static
+C:/Users/Jesus/Documents/STM32Cube_FW_WL_V1.2.0_CARGADOR_COCHE/STM32Cube_FW_WL_V1.2.0/Projects/NUCLEO-WL55JC/Examples/TIM/TIM_PWMOutput/Src/stm32wlxx_hal_msp.c:101:6:HAL_TIM_MspPostInit	40	static
+C:/Users/Jesus/Documents/STM32Cube_FW_WL_V1.2.0_CARGADOR_COCHE/STM32Cube_FW_WL_V1.2.0/Projects/NUCLEO-WL55JC/Examples/TIM/TIM_PWMOutput/Src/stm32wlxx_hal_msp.c:136:6:HAL_TIM_PWM_MspDeInit	16	static

@@ -1,0 +1,6 @@
+C:/Users/Jesus/Documents/STM32Cube_FW_WL_V1.2.0_CARGADOR_COCHE/STM32Cube_FW_WL_V1.2.0/Projects/NUCLEO-WL55JC/Applications/FreeRTOS/FreeRTOS_ThreadCreation/Src/main.c:80:5:main	8	static
+C:/Users/Jesus/Documents/STM32Cube_FW_WL_V1.2.0_CARGADOR_COCHE/STM32Cube_FW_WL_V1.2.0/Projects/NUCLEO-WL55JC/Applications/FreeRTOS/FreeRTOS_ThreadCreation/Src/main.c:160:6:SystemClock_Config	112	static
+C:/Users/Jesus/Documents/STM32Cube_FW_WL_V1.2.0_CARGADOR_COCHE/STM32Cube_FW_WL_V1.2.0/Projects/NUCLEO-WL55JC/Applications/FreeRTOS/FreeRTOS_ThreadCreation/Src/main.c:207:6:LED_Thread1	24	static
+C:/Users/Jesus/Documents/STM32Cube_FW_WL_V1.2.0_CARGADOR_COCHE/STM32Cube_FW_WL_V1.2.0/Projects/NUCLEO-WL55JC/Applications/FreeRTOS/FreeRTOS_ThreadCreation/Src/main.c:254:6:LED_Thread2	24	static
+C:/Users/Jesus/Documents/STM32Cube_FW_WL_V1.2.0_CARGADOR_COCHE/STM32Cube_FW_WL_V1.2.0/Projects/NUCLEO-WL55JC/Applications/FreeRTOS/FreeRTOS_ThreadCreation/Src/main.c:292:6:HAL_TIM_PeriodElapsedCallback	16	static
+C:/Users/Jesus/Documents/STM32Cube_FW_WL_V1.2.0_CARGADOR_COCHE/STM32Cube_FW_WL_V1.2.0/Projects/NUCLEO-WL55JC/Applications/FreeRTOS/FreeRTOS_ThreadCreation/Src/main.c:309:6:Error_Handler	4	static
